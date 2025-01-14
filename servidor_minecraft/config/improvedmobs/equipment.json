@@ -1,0 +1,592 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "alexsmobs:skelewag_sword": [
+      2895,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      3192,
+      0.0469
+    ],
+    "immersive_weathering:ice_sickle": [
+      3566,
+      0.0095
+    ],
+    "minecraft:bow": [
+      1093,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      1387,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      856,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      918,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      2061,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      3517,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      3580,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      3084,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      3171,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      2161,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      20,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      90,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      3111,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      2161,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      3287,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      3395,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      1961,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      1161,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      3471,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      3534,
+      0.0127
+    ],
+    "zombie_island:butcher_knife": [
+      2943,
+      0.7172579
+    ],
+    "zombie_island:combat_knife": [
+      2680,
+      1.0576197
+    ],
+    "zombie_island:criket_bat": [
+      3153,
+      0.33957827
+    ],
+    "zombie_island:crowbar": [
+      2480,
+      1.3143033
+    ],
+    "zombie_island:fire_axe": [
+      1917,
+      2.0459313
+    ],
+    "zombie_island:hunter_knife": [
+      2905,
+      0.7673663
+    ],
+    "zombie_island:mod_fire_axe": [
+      1811,
+      2.1854107
+    ],
+    "zombie_island:mod_old_axe": [
+      2047,
+      1.8756105
+    ],
+    "zombie_island:old_axe": [
+      2420,
+      1.3915545
+    ],
+    "zombie_island:police_baton": [
+      2902,
+      0.7712956
+    ],
+    "zombie_island:wide_balde_axe": [
+      2301,
+      1.5452459
+    ]
+  },
+  "OFFHAND": {
+    "bygonenether:gilded_netherite_shield": [
+      275,
+      7.0557194
+    ],
+    "minecraft:ender_pearl": [
+      2949,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      2921,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      2549,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      2627,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      1529,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      967,
+      0.6972618
+    ],
+    "lrarmor:armored_chemical_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:atf_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:atf_vest_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:attacker_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:chemical_protective_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:dea_armed_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:dea_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:defender_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:fbi_armed_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:fbi_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:irs_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:joker_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:medical_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:scout_boots": [
+      1153,
+      0.38456443
+    ],
+    "lrarmor:sniper_boots": [
+      1153,
+      0.38456443
+    ],
+    "minecraft:chainmail_boots": [
+      1078,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      162,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      1144,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      830,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      1426,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      35,
+      1.9030677
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      61,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      1296,
+      1.173019
+    ],
+    "lrarmor:armored_chemical_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:atf_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:atf_vest_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:attacker_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:chemical_protective_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:dea_armed_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:dea_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:defender_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:fbi_armed_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:fbi_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:irs_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:joker_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:medical_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:scout_leggings": [
+      1773,
+      0.5434188
+    ],
+    "lrarmor:sniper_leggings": [
+      1773,
+      0.5434188
+    ],
+    "minecraft:chainmail_leggings": [
+      1775,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      859,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      1841,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      1527,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      2123,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      732,
+      1.9030677
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      414,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      493,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      841,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      1064,
+      0.59963983
+    ],
+    "lrarmor:armored_chemical_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:atf_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:atf_vest_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:attacker_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:chemical_protective_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:dea_armed_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:dea_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:defender_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:fbi_armed_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:fbi_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:irs_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:joker_armed_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:joker_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:medical_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:scout_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "lrarmor:sniper_chestplate": [
+      1147,
+      0.46648473
+    ],
+    "minecraft:chainmail_chestplate": [
+      1104,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      188,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      1170,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      856,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      1452,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      61,
+      1.9030677
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      1216,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      910,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      1003,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      901,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      1216,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      1187,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      651,
+      1.0871058
+    ],
+    "immersive_weathering:flower_crown": [
+      1295,
+      0.036
+    ],
+    "lrarmor:armored_chemical_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:atf_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:atf_vest_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:attacker_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:chemical_protective_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:dea_armed_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:dea_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:defender_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:fbi_armed_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:fbi_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:irs_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:joker_armed_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:joker_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:medical_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:scout_helmet": [
+      1021,
+      0.6024908
+    ],
+    "lrarmor:sniper_helmet": [
+      1021,
+      0.6024908
+    ],
+    "minecraft:chainmail_helmet": [
+      1063,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      147,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      1129,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      815,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      1411,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      20,
+      1.9030677
+    ],
+    "minecraft:shulker_shell": [
+      1574,
+      0.0081
+    ],
+    "minecraft:turtle_helmet": [
+      759,
+      0.948558
+    ]
+  }
+}
